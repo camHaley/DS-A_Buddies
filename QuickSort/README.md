@@ -1,1 +1,4 @@
-# TODO: fill this out
+- [ ] learn who/what/when/where/why/how
+- [ ] get up to speed on the algorithm
+- [ ] develop a project goal
+- [ ] run through the project
