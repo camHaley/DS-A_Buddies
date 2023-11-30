@@ -18,5 +18,3 @@
 ## Advantages and Disadvantages
   - Quicksort is very efficient for large datasets and has good cache performance
   - It is a complex algorithm and can be unstable (it can change the order of equal elements)
-
-![GitHub Logo](/images/logo.png)
