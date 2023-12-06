@@ -20,3 +20,39 @@
 ## Advantages and Disadvantages
   - Quicksort is very efficient for large datasets and has good cache performance
   - It is a complex algorithm and can be unstable (it can change the order of equal elements)
+___________________________________________________________________________________________________________________________________________
+
+# ADS-B Aircraft/Interactive Map App 
+
+## 1. User Stories
+### Required Must-have Stories
+ - [ ] View Real-time Flight Data on interactive Map: Users can view real-time flight data including aircraft position, altitude, and speed.
+ - [ ] View Detailed Flight Information: Users can select/hover over a flight to view more detailed information.
+ - [ ] Search for Specific Flights: Users can search for flights based on call signs, flight numbers, or airline.
+ - [ ] Sort Flight Data: Users can sort flight data based on different parameters such as airline, destination, aircraft type, call sign using quicksort (or other sorting algos we determine) 
+
+### Optional Nice-to-have Stories
+ - [ ] Historical Flight Data: Users can access historical flight data for a specific date and time.
+ - [ ] User Preferences: users can track and get notifications on specific tail #'s 
+
+## 2. Screen Archetypes
+### Home Screen
+ - [ ] View Real-time Flight Data on Map
+ - [ ] Text Bar to refine what map shows (airline, a/c type, specific tail #)
+ - [ ] Details of flights revealed when hovered over
+
+### Search Historical Data (were we implement sorting)
+ - [ ] Users can search for flights by airline, type A/C , etc
+ - [ ] Users can determine how they want their results sorted
+
+### Favorites
+ - [ ] Users can track a set of specific tail numbers
+
+## 3. Navigation
+### Tab Navigation (Tab to Screen)
+ - [ ] Home Tab: Navigates to the Home Screen
+ - [ ] Search Tab: Navigates to the search screen
+ - [ ] Favorites: Navigates to the favorites screen
+
+### Flow Navigations
+ - don't really think that we need anything other than tabs
