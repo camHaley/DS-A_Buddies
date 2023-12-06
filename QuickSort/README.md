@@ -18,6 +18,11 @@ ________________________________________________________________________________
 
 # ADS-B Aircraft/Interactive Map App 
 
+###Tools
+ - python
+ - [Streamlit](https://streamlit.io/) - Data visualization
+ - [OpenSky Network API Python Documentation](https://openskynetwork.github.io/opensky-api/python.html)
+   
 ## 1. User Stories
 ### Required Must-have Stories
  - [ ] View Real-time Flight Data on interactive Map: Users can view real-time flight data including aircraft position, altitude, and speed.
